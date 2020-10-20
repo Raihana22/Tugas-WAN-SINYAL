@@ -1,3 +1,19 @@
+# SIGNAL
+
+## Pengertian
+  Signal adalah salah satu bentuk dari komunikasi antar proses atau Inter Process Communication (IPC).
+Signal dalam bahasa yang berarti Tanda atau Isyarat. Yang artinya signal merupakan sebuah notifikasi yang
+dikirim dalam suatu proses tertentu untuk menginformasikan bahwa suatu peristiwa
+telah terjadi.
+
+## Macam - Macam Signal
+### 1. SIGNAL RF
+        Signal RF (Radio Frekuensi)
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Raihana22/Tugas-WAN-SINYAL/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
