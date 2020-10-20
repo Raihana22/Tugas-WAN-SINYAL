@@ -6,7 +6,7 @@ Signal dalam bahasa yang berarti Tanda atau Isyarat. Yang artinya signal merupak
 dikirim dalam suatu proses tertentu untuk menginformasikan bahwa suatu peristiwa
 telah terjadi.
 
-![Image](images (9))
+![Image](images(9).jpeg)
 
 ## Macam - Macam Signal
 ### 1. SIGNAL RF (Radio Frekuensi)
