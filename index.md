@@ -7,8 +7,22 @@ dikirim dalam suatu proses tertentu untuk menginformasikan bahwa suatu peristiwa
 telah terjadi.
 
 ## Macam - Macam Signal
-### 1. SIGNAL RF
-        Signal RF (Radio Frekuensi)
+### 1. SIGNAL RF (Radio Frekuensi)
+        Signal RF adalah komponen yang dapat mendeteksi sinyal gelombang elektromagnetik yang di gunakan oleh
+    sistem komunikasi untuk mengirim informasi melalui udara dari satu titik ke titik lainnya yang merambat
+    antara Antena Pemancar pengirim dan penerima. Signal RF memiliki 2 perangkat elektronik yaitu Transmitter 
+    untuk memancarkan signal dan Receiver untuk menerima signal. Frekuensi yang biasanya digunakan agar tidak
+    terjadi kegagalan komunikasi yaitu sebesar 315 MHz.
+
+### 2. INFRARED (INFRAMERAH)
+         Infrared atau dalam bahasa indonesia nya inframerah merupakam Radiasi Elektromagnetik dari panjang
+     gelombang lebih panjang dari cahaya tampak, tetapi lebih pendek dari radiasi gelombang radio. Radiasi
+     inframerah memiliki jangkauan tiga order dan memiliki panjang gelombang antara 700 nm dan 1 mm.
+
+### 3. BLUETOOTH
+        
+
+
 
 
 
