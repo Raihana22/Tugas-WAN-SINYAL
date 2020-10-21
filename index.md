@@ -22,48 +22,28 @@ gelombang lebih panjang dari cahaya tampak, tetapi lebih pendek dari radiasi gel
 inframerah memiliki jangkauan tiga order dan memiliki panjang gelombang antara 700 nm dan 1 mm.
 
 ### 3. BLUETOOTH
-        
+   Bluetooth dapat menghubungkan san dapat di pakai untuk melakukan tukar - menukar informasi antar perangkat.
+Bluetooth beroperasi dalam pita frekuensi 2,4 GHz dengan menggunakan Frequench Hopping Traceiver yang mampu
+menyedialan layanan komunikasi data dan suara secara real time antara host bluetooth dengan jarang terbatas.
+
+### 4. Wi-Fi
+    Wi-Fi adalah sebuah teknologi yang menggunakan gelombang radio (secara nirkabel) melalui jaringan untuk
+bertukar data. Termasuk koneksi internet yang memiliki kecepatan tinggi.Sebuah alat yang dapat memakai Wi-Fi
+(seperti komputer pribadi, konsol permainan video, telepon pintar, tablet, atau pemutar audio digital) dapat
+terhubung dengan sumber jaringan seperti Internet melalui sebuah titik akses jaringan nirkabel. Titik akses
+(atau hotspot) seperti itu mempunyai jangkauan sekitar 20 meter (65 kaki) di dalam ruangan dan lebih luas 
+lagi di luar ruangan. Cakupan hotspot dapat mencakup wilayah seluas kamar dengan dinding yang memblokir 
+gelombang radio atau beberapa mil persegi — ini bisa dilakukan dengan memakai beberapa titik akses yang saling 
+tumpang tindih.
+
+## ENCODING  
+    Pengkodean atau penyandian (encoding) adalah proses konversi informasi dari suatu sumber (objek) menjadi
+data yang selanjutnya dikirimkan ke penerima atau pengamat, seperti pada sistem pemrosesan data.     
+    Misalnya satu byte data terdiri dari 8 bit jajar. Untuk mengirimkan data bit jajar ini memerlukan 8 saluran 
+kanal pengirim dan 8 saluran kanal penerima. Karena ini tidak efisien, maka informasi harus di encoding atau 
+disandikan kedalam bentuk data deret sehingga kita bisa mengirim sinyal hanya dengan satu kanal pengirim dan
+satu kanal penerima. 
 
 
+Berikut hasil rangkuman saya. Lebih dan kurangnya saya mohon maaf. Atas waktu dan perhatiannya saya ucapkan terima kasih.
 
-
-
-
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Raihana22/Tugas-WAN-SINYAL/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Raihana22/Tugas-WAN-SINYAL/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
