@@ -27,7 +27,7 @@ Bluetooth beroperasi dalam pita frekuensi 2,4 GHz dengan menggunakan Frequench H
 menyedialan layanan komunikasi data dan suara secara real time antara host bluetooth dengan jarang terbatas.
 
 ### 4. Wi-Fi
-    Wi-Fi adalah sebuah teknologi yang menggunakan gelombang radio (secara nirkabel) melalui jaringan untuk
+   Wi-Fi adalah sebuah teknologi yang menggunakan gelombang radio (secara nirkabel) melalui jaringan untuk
 bertukar data. Termasuk koneksi internet yang memiliki kecepatan tinggi.Sebuah alat yang dapat memakai Wi-Fi
 (seperti komputer pribadi, konsol permainan video, telepon pintar, tablet, atau pemutar audio digital) dapat
 terhubung dengan sumber jaringan seperti Internet melalui sebuah titik akses jaringan nirkabel. Titik akses
@@ -37,9 +37,9 @@ gelombang radio atau beberapa mil persegi — ini bisa dilakukan dengan memakai 
 tumpang tindih.
 
 ## ENCODING  
-    Pengkodean atau penyandian (encoding) adalah proses konversi informasi dari suatu sumber (objek) menjadi
+   Pengkodean atau penyandian (encoding) adalah proses konversi informasi dari suatu sumber (objek) menjadi
 data yang selanjutnya dikirimkan ke penerima atau pengamat, seperti pada sistem pemrosesan data.     
-    Misalnya satu byte data terdiri dari 8 bit jajar. Untuk mengirimkan data bit jajar ini memerlukan 8 saluran 
+   Misalnya satu byte data terdiri dari 8 bit jajar. Untuk mengirimkan data bit jajar ini memerlukan 8 saluran 
 kanal pengirim dan 8 saluran kanal penerima. Karena ini tidak efisien, maka informasi harus di encoding atau 
 disandikan kedalam bentuk data deret sehingga kita bisa mengirim sinyal hanya dengan satu kanal pengirim dan
 satu kanal penerima. 
