@@ -16,21 +16,21 @@ antara Antena Pemancar pengirim dan penerima. Signal RF memiliki 2 perangkat ele
 untuk memancarkan signal dan Receiver untuk menerima signal. Frekuensi yang biasanya digunakan agar tidak
 terjadi kegagalan komunikasi yaitu sebesar 315 MHz.
 
-![Image](images (10).jpeg)
+![Image](images(10).jpeg)
 
 ### 2. INFRARED (INFRAMERAH)
    Infrared atau dalam bahasa indonesia nya inframerah merupakam Radiasi Elektromagnetik dari panjang
 gelombang lebih panjang dari cahaya tampak, tetapi lebih pendek dari radiasi gelombang radio. Radiasi
 inframerah memiliki jangkauan tiga order dan memiliki panjang gelombang antara 700 nm dan 1 mm.
 
-![Image](images (11).jpeg)
+![Image](images(11).jpeg)
 
 ### 3. BLUETOOTH
    Bluetooth dapat menghubungkan san dapat di pakai untuk melakukan tukar - menukar informasi antar perangkat.
 Bluetooth beroperasi dalam pita frekuensi 2,4 GHz dengan menggunakan Frequench Hopping Traceiver yang mampu
 menyedialan layanan komunikasi data dan suara secara real time antara host bluetooth dengan jarang terbatas.
 
-![Image](images (12).jpeg)
+![Image](images(12).jpeg)
 
 ### 4. Wi-Fi
    Wi-Fi adalah sebuah teknologi yang menggunakan gelombang radio (secara nirkabel) melalui jaringan untuk
@@ -42,7 +42,7 @@ lagi di luar ruangan. Cakupan hotspot dapat mencakup wilayah seluas kamar dengan
 gelombang radio atau beberapa mil persegi — ini bisa dilakukan dengan memakai beberapa titik akses yang saling 
 tumpang tindih.
 
-![Image](images (13).jpeg)
+![Image](images(13).jpeg)
 
 ## ENCODING  
    Pengkodean atau penyandian (encoding) adalah proses konversi informasi dari suatu sumber (objek) menjadi
